@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'main.apps.MainConfig',
     'account.apps.AccountConfig',
     'forum.apps.ForumConfig',
-    'crispy_forms' # for styling register and log in forms
+    'crispy_forms'
 ]
 
 MIDDLEWARE = [
